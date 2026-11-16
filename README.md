@@ -13,6 +13,8 @@
 <img src="docs/vlsm.png" width="820" alt="VLSM planner">
 
 </div>
+> 🎥 **[Watch the demo video →](docs/demo.mp4)** (download to play)
+
 
 ---
 
