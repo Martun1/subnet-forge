@@ -1,0 +1,6 @@
+build/
+/subnet-forge
+*.exe
+.vscode/
+.idea/
+cmake-build-*/
